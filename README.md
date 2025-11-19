@@ -19,4 +19,4 @@ A personal section. These pieces are a documentation of my own journey and hobbi
 ### 📬 Contact  
 
 **Email:** himank29@gmail.com  
-**LinkedIn:** linkedin.com/in/himankgupta1
+**LinkedIn:** www.linkedin.com/in/himankgupta1
