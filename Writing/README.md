@@ -1,4 +1,9 @@
 *All of my written work: books, blogs and journaling!*
+## Books
+1. My JEE experience - https://www.amazon.in/Story-My-JEEvan-Pothole-IIT-Bombay-ebook/dp/B09MPP8MZP
+2. Nerding out on football - https://www.amazon.in/Football-101-Positional-Himank-Gupta-ebook/dp/B0BGMMQVNP
+
+PDFs to the books attached in the repo
 
 ## College Journey
 Archive of various memories, write ups and pictures - https://sites.google.com/view/himanks-iitb-archive/home
