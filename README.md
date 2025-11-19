@@ -1,6 +1,6 @@
 ## Himank's Product Portfolio
 
-This portfolio brings together the PM-related work I have done till now. I like to experimenting with new technologies and ideas. Also, I enjoy sharing my work and connecting with the community. Feel free to reach out or share feedback on anything that excites you!
+This portfolio brings together the PM-related work I have done till now. I like to experimenting with new technologies and ideas. Also, I enjoy sharing my work and connecting with the community. Feel free to reach out or share feedback on anything that excites you! Heads up - there isn't much code in this repo :)
 
 ### What's Inside
 
